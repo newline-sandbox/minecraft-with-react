@@ -1,3 +1,11 @@
+# Minecraft (React.js version)
+
+This is a Minecraft-like open-ended game made with React.js.
+
+It was created and presented by Maksim Ivanov, check out his channel on YouTube:
+
+[Maksim Ivanon on YouTube](https://www.youtube.com/watch?v=Lc2JvBXMesY&feature=youtu.be)
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
